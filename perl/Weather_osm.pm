@@ -11,7 +11,6 @@ use Exporter;
 use LWP::UserAgent;
 use DBI;
 use Data::Dumper;
-use XML::Simple;
 use JSON;
 use DateTime;
 use DateTime::TimeZone;
